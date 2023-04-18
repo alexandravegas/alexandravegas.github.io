@@ -1,0 +1,30 @@
+body{
+    background-color: #b0cff8;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+    color: blue;
+    
+}
+.sedesnt{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    margin: 0;
+}
+
+.info{
+    text-align: left;
+    background-color: #e3e3fcc9;
+    color: #061a74;
+    font-size: 16px;  
+    padding:5%;
+    margin:0;
+    border: solid 1px #061a74;;
+}
+a{
+    text-decoration: none;
+}
